@@ -1,0 +1,294 @@
+a:1:{s:4:"data";s:58:"{"action":"reg","user_login":"qwee","user_password":"123"}";}2021.01.27 11:20:37 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"qwee\",\"user_password\":\"123\"}"
+2021.01.27 11:20:37 :: Registration of new user - qwee
+2021.01.27 11:20:37 :: new user successfully created
+a:1:{s:4:"data";s:59:"{"action":"auth","user_login":"qwee","user_password":"123"}";}2021.01.27 11:21:45 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwee\",\"user_password\":\"123\"}"
+2021.01.27 11:21:45 :: User qwee trying to authorization
+2021.01.27 11:21:45 :: access granted for user qwee
+a:1:{s:4:"data";s:57:"{"action":"reg","user_login":"qwe","user_password":"123"}";}2021.01.27 11:22:17 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 11:22:17 :: Registration of new user - qwe
+2021.01.27 11:22:17 :: new user successfully created
+a:1:{s:4:"data";s:58:"{"action":"auth","user_login":"qwe","user_password":"123"}";}2021.01.27 11:23:05 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 11:23:05 :: User qwe trying to authorization
+2021.01.27 11:23:05 :: access granted for user qwe
+a:1:{s:4:"data";s:57:"{"action":"reg","user_login":"qwe","user_password":"123"}";}2021.01.27 11:26:00 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 11:26:00 :: Registration of new user - qwe
+2021.01.27 11:26:00 :: new user successfully created
+a:1:{s:4:"data";s:58:"{"action":"auth","user_login":"qwe","user_password":"123"}";}2021.01.27 11:26:08 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 11:26:08 :: User qwe trying to authorization
+2021.01.27 11:26:08 :: access granted for user qwe
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:34:37 :: Received data from Server-AUTH: ""
+2021.01.27 11:34:37 :: Registration of new user - 
+2021.01.27 11:34:37 :: new user successfully created
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:12 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:12 :: Registration of new user - 
+2021.01.27 11:36:12 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:13 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:13 :: Registration of new user - 
+2021.01.27 11:36:13 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:14 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:14 :: Registration of new user - 
+2021.01.27 11:36:14 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:16 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:16 :: Registration of new user - 
+2021.01.27 11:36:16 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:17 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:17 :: Registration of new user - 
+2021.01.27 11:36:17 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:18 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:18 :: Registration of new user - 
+2021.01.27 11:36:18 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:19 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:19 :: Registration of new user - 
+2021.01.27 11:36:19 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:20 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:20 :: Registration of new user - 
+2021.01.27 11:36:20 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:21 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:21 :: Registration of new user - 
+2021.01.27 11:36:21 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:22 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:22 :: Registration of new user - 
+2021.01.27 11:36:22 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:23 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:23 :: Registration of new user - 
+2021.01.27 11:36:23 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:24 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:24 :: Registration of new user - 
+2021.01.27 11:36:24 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:25 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:25 :: Registration of new user - 
+2021.01.27 11:36:25 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:26 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:26 :: Registration of new user - 
+2021.01.27 11:36:26 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:27 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:27 :: Registration of new user - 
+2021.01.27 11:36:27 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:28 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:28 :: Registration of new user - 
+2021.01.27 11:36:28 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:29 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:29 :: Registration of new user - 
+2021.01.27 11:36:29 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:30 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:30 :: Registration of new user - 
+2021.01.27 11:36:30 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:32 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:32 :: Registration of new user - 
+2021.01.27 11:36:32 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:33 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:33 :: Registration of new user - 
+2021.01.27 11:36:33 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:34 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:34 :: Registration of new user - 
+2021.01.27 11:36:34 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:35 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:35 :: Registration of new user - 
+2021.01.27 11:36:35 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:36 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:36 :: Registration of new user - 
+2021.01.27 11:36:36 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:37 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:37 :: Registration of new user - 
+2021.01.27 11:36:37 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:38 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:38 :: Registration of new user - 
+2021.01.27 11:36:38 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:39 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:39 :: Registration of new user - 
+2021.01.27 11:36:39 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:40 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:40 :: Registration of new user - 
+2021.01.27 11:36:40 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:41 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:41 :: Registration of new user - 
+2021.01.27 11:36:41 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:42 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:42 :: Registration of new user - 
+2021.01.27 11:36:42 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:43 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:43 :: Registration of new user - 
+2021.01.27 11:36:43 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:44 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:44 :: Registration of new user - 
+2021.01.27 11:36:44 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:45 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:45 :: Registration of new user - 
+2021.01.27 11:36:45 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:46 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:46 :: Registration of new user - 
+2021.01.27 11:36:46 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:47 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:47 :: Registration of new user - 
+2021.01.27 11:36:47 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:49 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:49 :: Registration of new user - 
+2021.01.27 11:36:49 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:50 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:50 :: Registration of new user - 
+2021.01.27 11:36:50 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:51 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:51 :: Registration of new user - 
+2021.01.27 11:36:51 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:52 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:52 :: Registration of new user - 
+2021.01.27 11:36:52 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:53 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:53 :: Registration of new user - 
+2021.01.27 11:36:53 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:54 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:54 :: Registration of new user - 
+2021.01.27 11:36:54 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:55 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:55 :: Registration of new user - 
+2021.01.27 11:36:55 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:56 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:56 :: Registration of new user - 
+2021.01.27 11:36:56 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:57 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:57 :: Registration of new user - 
+2021.01.27 11:36:57 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:58 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:58 :: Registration of new user - 
+2021.01.27 11:36:58 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:36:59 :: Received data from Server-AUTH: ""
+2021.01.27 11:36:59 :: Registration of new user - 
+2021.01.27 11:36:59 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:00 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:00 :: Registration of new user - 
+2021.01.27 11:37:00 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:01 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:01 :: Registration of new user - 
+2021.01.27 11:37:01 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:02 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:02 :: Registration of new user - 
+2021.01.27 11:37:02 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:03 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:03 :: Registration of new user - 
+2021.01.27 11:37:03 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:04 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:04 :: Registration of new user - 
+2021.01.27 11:37:04 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:05 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:05 :: Registration of new user - 
+2021.01.27 11:37:05 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:0:"";}2021.01.27 11:37:07 :: Received data from Server-AUTH: ""
+2021.01.27 11:37:07 :: Registration of new user - 
+2021.01.27 11:37:07 :: User  doesnt created - already registered
+a:1:{s:4:"data";s:57:"{"action":"reg","user_login":"zxc","user_password":"123"}";}2021.01.27 12:13:49 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"zxc\",\"user_password\":\"123\"}"
+2021.01.27 12:13:49 :: Registration of new user - zxc
+2021.01.27 12:13:49 :: new user successfully created
+a:1:{s:4:"data";s:58:"{"action":"auth","user_login":"zxc","user_password":"123"}";}2021.01.27 12:13:55 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"zxc\",\"user_password\":\"123\"}"
+2021.01.27 12:13:55 :: User zxc trying to authorization
+2021.01.27 12:13:55 :: access granted for user zxc
+2021.01.27 12:26:37 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"sss\",\"user_password\":\"sss\"}"
+2021.01.27 12:26:37 :: Registration of new user - sss
+2021.01.27 12:26:37 :: new user successfully created
+2021.01.27 12:28:00 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"sss\",\"user_password\":\"sss\"}"
+2021.01.27 12:28:00 :: User sss trying to authorization
+2021.01.27 12:28:00 :: access granted for user sss
+2021.01.27 12:33:38 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 12:33:38 :: Registration of new user - qwe
+2021.01.27 12:33:38 :: new user successfully created
+2021.01.27 12:34:58 :: Received data from Server-AUTH: "{\"action\":\"reg\",\"user_login\":\"asd\",\"user_password\":\"123\"}"
+2021.01.27 12:34:58 :: Registration of new user - asd
+2021.01.27 12:34:58 :: new user successfully created
+2021.01.27 12:40:28 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 12:40:28 :: User qwe trying to authorization
+2021.01.27 12:40:28 :: access granted for user qwe
+2021.01.27 12:42:56 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 12:42:56 :: User qwe trying to authorization
+2021.01.27 12:42:56 :: access granted for user qwe
+2021.01.27 12:50:37 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 12:50:37 :: User qwe trying to authorization
+2021.01.27 12:50:37 :: access granted for user qwe
+2021.01.27 12:53:28 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 12:53:28 :: User qwe trying to authorization
+2021.01.27 12:53:28 :: access granted for user qwe
+2021.01.27 14:08:19 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 14:08:19 :: User qwe trying to authorization
+2021.01.27 14:08:19 :: access granted for user qwe
+2021.01.27 14:40:59 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 14:40:59 :: User qwe trying to authorization
+2021.01.27 14:40:59 :: access granted for user qwe
+2021.01.27 14:43:34 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 14:43:34 :: User qwe trying to authorization
+2021.01.27 14:43:34 :: access granted for user qwe
+2021.01.27 15:02:45 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 15:02:45 :: User qwe trying to authorization
+2021.01.27 15:02:45 :: access granted for user qwe
+2021.01.27 15:20:37 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 15:20:37 :: User qwe trying to authorization
+2021.01.27 15:20:37 :: access granted for user qwe
+2021.01.27 15:25:44 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 15:25:44 :: User qwe trying to authorization
+2021.01.27 15:25:44 :: access granted for user qwe
+2021.01.27 15:54:02 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 15:54:02 :: User qwe trying to authorization
+2021.01.27 15:54:02 :: access granted for user qwe
+2021.01.27 15:59:47 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 15:59:47 :: User qwe trying to authorization
+2021.01.27 15:59:47 :: access granted for user qwe
+2021.01.27 16:03:46 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:03:46 :: User qwe trying to authorization
+2021.01.27 16:03:46 :: access granted for user qwe
+2021.01.27 16:04:48 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:04:48 :: User qwe trying to authorization
+2021.01.27 16:04:48 :: access granted for user qwe
+2021.01.27 16:22:39 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:22:39 :: User qwe trying to authorization
+2021.01.27 16:22:39 :: access granted for user qwe
+2021.01.27 16:26:07 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:26:07 :: User qwe trying to authorization
+2021.01.27 16:26:07 :: access granted for user qwe
+2021.01.27 16:27:40 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:27:40 :: User qwe trying to authorization
+2021.01.27 16:27:40 :: access granted for user qwe
+2021.01.27 16:29:47 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:29:47 :: User qwe trying to authorization
+2021.01.27 16:29:47 :: access granted for user qwe
+2021.01.27 16:34:24 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:34:24 :: User qwe trying to authorization
+2021.01.27 16:34:24 :: access granted for user qwe
+2021.01.27 16:39:25 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:39:25 :: User qwe trying to authorization
+2021.01.27 16:39:25 :: access granted for user qwe
+2021.01.27 16:43:16 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:43:16 :: User qwe trying to authorization
+2021.01.27 16:43:16 :: access granted for user qwe
+2021.01.27 16:45:48 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:45:48 :: User qwe trying to authorization
+2021.01.27 16:45:48 :: access granted for user qwe
+2021.01.27 16:54:45 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:54:45 :: User qwe trying to authorization
+2021.01.27 16:54:45 :: access granted for user qwe
+2021.01.27 16:55:32 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:55:32 :: User qwe trying to authorization
+2021.01.27 16:55:32 :: access granted for user qwe
+2021.01.27 16:56:16 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:56:16 :: User qwe trying to authorization
+2021.01.27 16:56:16 :: access granted for user qwe
+2021.01.27 16:59:44 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 16:59:44 :: User qwe trying to authorization
+2021.01.27 16:59:44 :: access granted for user qwe
+2021.01.27 17:07:38 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:07:38 :: User qwe trying to authorization
+2021.01.27 17:07:38 :: access granted for user qwe
+2021.01.27 17:19:14 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:19:14 :: User qwe trying to authorization
+2021.01.27 17:19:14 :: access granted for user qwe
+2021.01.27 17:36:20 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:36:20 :: User qwe trying to authorization
+2021.01.27 17:36:20 :: access granted for user qwe
+2021.01.27 17:37:16 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:37:16 :: User qwe trying to authorization
+2021.01.27 17:37:16 :: access granted for user qwe
+2021.01.27 17:44:10 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:44:10 :: User qwe trying to authorization
+2021.01.27 17:44:10 :: access granted for user qwe
+2021.01.27 17:44:47 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 17:44:47 :: User qwe trying to authorization
+2021.01.27 17:44:47 :: access granted for user qwe
+2021.01.27 18:00:33 :: Received data from Server-AUTH: "{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}"
+2021.01.27 18:00:33 :: User qwe trying to authorization
+2021.01.27 18:00:33 :: access granted for user qwe

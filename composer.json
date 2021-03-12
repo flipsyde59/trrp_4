@@ -1,0 +1,9 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.128",
+      "ext-mysqli": "*",
+      "ext-json": "*",
+      "ext-curl": "*",
+      "ext-sockets": "*"
+    }
+}

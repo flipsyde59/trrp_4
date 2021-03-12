@@ -1,0 +1,226 @@
+2021.01.27 10:45:07 :: Received data from Server-CRUD: null
+2021.01.27 10:59:01 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"eeeee\",\"user_password\":\"qwe\"}6"}
+2021.01.27 10:59:01 :: users action - read
+2021.01.27 10:59:01 :: there is no tasks for user with this ID
+2021.01.27 11:05:09 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"eeee\",\"user_password\":\"dddd\"}7"}
+2021.01.27 11:05:09 :: users action - read
+2021.01.27 11:05:09 :: there is no tasks for user with this ID
+2021.01.27 11:05:16 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"eeee\",\"user_password\":\"dddd\"}7"}
+2021.01.27 11:05:16 :: users action - read
+2021.01.27 11:05:16 :: there is no tasks for user with this ID
+2021.01.27 11:05:26 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"eeee\",\"user_password\":\"dddd\"}7"}
+2021.01.27 11:05:26 :: users action - read
+2021.01.27 11:05:26 :: there is no tasks for user with this ID
+2021.01.27 11:20:39 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"qwee\",\"user_password\":\"123\"}8"}
+2021.01.27 11:20:39 :: users action - read
+2021.01.27 11:20:39 :: there is no tasks for user with this ID
+2021.01.27 11:21:46 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"qwee\",\"user_password\":\"123\"}8"}
+2021.01.27 11:21:46 :: users action - read
+2021.01.27 11:21:46 :: there is no tasks for user with this ID
+2021.01.27 11:22:18 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"qwe\",\"user_password\":\"123\"}9"}
+2021.01.27 11:22:18 :: users action - read
+2021.01.27 11:22:18 :: there is no tasks for user with this ID
+2021.01.27 11:23:06 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}9"}
+2021.01.27 11:23:06 :: users action - read
+2021.01.27 11:23:06 :: there is no tasks for user with this ID
+2021.01.27 11:26:01 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"qwe\",\"user_password\":\"123\"}10"}
+2021.01.27 11:26:01 :: users action - read
+2021.01.27 11:26:01 :: there is no tasks for user with this ID
+2021.01.27 11:26:08 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"qwe\",\"user_password\":\"123\"}10"}
+2021.01.27 11:26:08 :: users action - read
+2021.01.27 11:26:08 :: there is no tasks for user with this ID
+2021.01.27 12:13:50 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"reg\",\"user_login\":\"zxc\",\"user_password\":\"123\"}12"}
+2021.01.27 12:13:50 :: users action - read
+2021.01.27 12:13:50 :: there is no tasks for user with this ID
+2021.01.27 12:13:56 :: Received data from Server-CRUD: {"action":"read","ownerId":"{\"action\":\"auth\",\"user_login\":\"zxc\",\"user_password\":\"123\"}12"}
+2021.01.27 12:13:56 :: users action - read
+2021.01.27 12:13:56 :: there is no tasks for user with this ID
+2021.01.27 12:26:38 :: Received data from Server-CRUD: {"action":"read","ownerId":"13"}
+2021.01.27 12:26:38 :: users action - read
+2021.01.27 12:26:38 :: there is no tasks for user with this ID
+2021.01.27 12:28:01 :: Received data from Server-CRUD: {"action":"read","ownerId":"13"}
+2021.01.27 12:28:01 :: users action - read
+2021.01.27 12:28:01 :: there is no tasks for user with this ID
+2021.01.27 12:33:39 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 12:33:39 :: users action - read
+2021.01.27 12:33:39 :: there is no tasks for user with this ID
+2021.01.27 12:34:59 :: Received data from Server-CRUD: {"action":"read","ownerId":"15"}
+2021.01.27 12:34:59 :: users action - read
+2021.01.27 12:34:59 :: there is no tasks for user with this ID
+2021.01.27 12:40:31 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 12:40:31 :: users action - read
+2021.01.27 12:40:31 :: there is no tasks for user with this ID
+2021.01.27 12:42:57 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 12:42:57 :: users action - read
+2021.01.27 12:42:57 :: there is no tasks for user with this ID
+2021.01.27 12:50:38 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 12:50:38 :: users action - read
+2021.01.27 12:50:38 :: there is no tasks for user with this ID
+2021.01.27 12:53:30 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 12:53:30 :: users action - read
+2021.01.27 12:53:30 :: there is no tasks for user with this ID
+2021.01.27 14:08:20 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 14:08:20 :: users action - read
+2021.01.27 14:08:20 :: sent to user next data: [{"id":"1","name":"qwerty","description":"asdfdafafad","done":"1"}]
+2021.01.27 14:41:02 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 14:41:02 :: users action - read
+2021.01.27 14:41:02 :: there is no tasks for user with this ID
+2021.01.27 14:43:36 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 14:43:36 :: users action - read
+2021.01.27 14:43:36 :: there is no tasks for user with this ID
+2021.01.27 15:02:46 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 15:02:46 :: users action - read
+2021.01.27 15:02:46 :: there is no tasks for user with this ID
+2021.01.27 15:20:38 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 15:20:38 :: users action - read
+2021.01.27 15:20:38 :: there is no tasks for user with this ID
+2021.01.27 15:25:45 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 15:25:45 :: users action - read
+2021.01.27 15:25:45 :: there is no tasks for user with this ID
+2021.01.27 15:54:04 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 15:54:04 :: users action - read
+2021.01.27 15:54:04 :: there is no tasks for user with this ID
+2021.01.27 15:59:48 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 15:59:48 :: users action - read
+2021.01.27 15:59:48 :: there is no tasks for user with this ID
+2021.01.27 16:03:47 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:03:47 :: users action - read
+2021.01.27 16:03:47 :: there is no tasks for user with this ID
+2021.01.27 16:04:49 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:04:49 :: users action - read
+2021.01.27 16:04:49 :: there is no tasks for user with this ID
+2021.01.27 16:22:41 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:22:41 :: users action - read
+2021.01.27 16:22:41 :: there is no tasks for user with this ID
+2021.01.27 16:26:09 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:26:09 :: users action - read
+2021.01.27 16:26:09 :: there is no tasks for user with this ID
+2021.01.27 16:27:41 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:27:41 :: users action - read
+2021.01.27 16:27:41 :: there is no tasks for user with this ID
+2021.01.27 16:29:48 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:29:48 :: users action - read
+2021.01.27 16:29:48 :: there is no tasks for user with this ID
+2021.01.27 16:34:28 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:34:28 :: users action - read
+2021.01.27 16:34:28 :: there is no tasks for user with this ID
+2021.01.27 16:39:25 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:39:25 :: users action - read
+2021.01.27 16:39:25 :: there is no tasks for user with this ID
+2021.01.27 16:43:18 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:43:18 :: users action - read
+2021.01.27 16:43:18 :: there is no tasks for user with this ID
+2021.01.27 16:46:54 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:46:54 :: users action - read
+2021.01.27 16:46:54 :: there is no tasks for user with this ID
+2021.01.27 16:55:34 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:55:34 :: users action - read
+2021.01.27 16:55:34 :: there is no tasks for user with this ID
+2021.01.27 16:55:44 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:55:44 :: users action - read
+2021.01.27 16:55:44 :: there is no tasks for user with this ID
+2021.01.27 16:56:31 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 16:56:31 :: users action - read
+2021.01.27 16:56:31 :: there is no tasks for user with this ID
+2021.01.27 17:00:12 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:00:12 :: users action - read
+2021.01.27 17:00:12 :: there is no tasks for user with this ID
+2021.01.27 17:07:39 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:07:39 :: users action - read
+2021.01.27 17:07:39 :: there is no tasks for user with this ID
+2021.01.27 17:08:55 :: Received data from Server-CRUD: {"action":"create","name":"weqwdqwf","description":"qwfweersfe","ownerId":14,"done":0}
+2021.01.27 17:08:55 :: users action - create
+2021.01.27 17:08:55 :: new data inserted into database; ID of new task - 2 - sent to client
+2021.01.27 17:09:17 :: Received data from Server-CRUD: {"action":"create","name":"fffff","description":"fdssvsdasdf","ownerId":14,"done":0}
+2021.01.27 17:09:17 :: users action - create
+2021.01.27 17:09:17 :: new data inserted into database; ID of new task - 3 - sent to client
+2021.01.27 17:09:29 :: Received data from Server-CRUD: {"action":"update","name":"weqwdqwf","description":"23e23rwer","id":2,"done":false}
+2021.01.27 17:09:29 :: users action - update
+2021.01.27 17:09:29 :: data updated; sent to user 'true'
+2021.01.27 17:10:09 :: Received data from Server-CRUD: {"action":"update","name":"weqwdqwf","description":"23e23rwer","id":2,"done":false}
+2021.01.27 17:10:09 :: users action - update
+2021.01.27 17:10:09 :: data updated; sent to user 'true'
+2021.01.27 17:11:25 :: Received data from Server-CRUD: {"action":"delete","id":2}
+2021.01.27 17:11:25 :: users action - delete
+2021.01.27 17:11:25 :: task with ID=2 was deleted; sent to user 'true'
+2021.01.27 17:12:18 :: Received data from Server-CRUD: {"action":"create","name":"eweryuy","description":"ewrreyruyt","ownerId":14,"done":0}
+2021.01.27 17:12:18 :: users action - create
+2021.01.27 17:12:18 :: new data inserted into database; ID of new task - 4 - sent to client
+2021.01.27 17:12:33 :: Received data from Server-CRUD: {"action":"create","name":"eweryuy","description":"ewrreyruyt","ownerId":14,"done":0}
+2021.01.27 17:12:33 :: users action - create
+2021.01.27 17:12:34 :: new data inserted into database; ID of new task - 5 - sent to client
+2021.01.27 17:12:45 :: Received data from Server-CRUD: {"action":"update","name":"rewretrtrtyrty","description":"uuuuuuuuuuuu","id":5,"done":false}
+2021.01.27 17:12:45 :: users action - update
+2021.01.27 17:12:45 :: data updated; sent to user 'true'
+2021.01.27 17:14:29 :: Received data from Server-CRUD: {"action":"update","name":"rewretrtrtyrty","description":"uuuuuuuuuuuu","id":5,"done":false}
+2021.01.27 17:14:29 :: users action - update
+2021.01.27 17:14:29 :: data updated; sent to user 'true'
+2021.01.27 17:18:17 :: Received data from Server-CRUD: {"action":"update","name":"eweryuy","description":"ewrreyruyt","id":4,"done":true}
+2021.01.27 17:18:17 :: users action - update
+2021.01.27 17:18:17 :: data updated; sent to user 'true'
+2021.01.27 17:19:16 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:19:16 :: users action - read
+2021.01.27 17:19:16 :: sent to user next data: [{"id":"3","name":"fffff","description":"fdssvsdasdf","done":"0"},{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"eweryuy","description":"ewrreyruyt","done":"0"}]
+2021.01.27 17:20:36 :: Received data from Server-CRUD: {"action":"update","name":"123","description":"fgerdsrgr","id":5,"done":false}
+2021.01.27 17:20:36 :: users action - update
+2021.01.27 17:20:36 :: data updated; sent to user 'true'
+2021.01.27 17:21:18 :: Received data from Server-CRUD: {"action":"update","name":"123","description":"fgerdsrgr","id":5,"done":false}
+2021.01.27 17:21:18 :: users action - update
+2021.01.27 17:21:18 :: data updated; sent to user 'true'
+2021.01.27 17:36:22 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:36:22 :: users action - read
+2021.01.27 17:36:22 :: sent to user next data: [{"id":"3","name":"fffff","description":"fdssvsdasdf","done":"0"},{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"eweryuy","description":"ewrreyruyt","done":"0"}]
+2021.01.27 17:36:23 :: Received data from Server-CRUD: {"action":"update","name":"123","description":"fgerdsrgr","id":5,"done":false}
+2021.01.27 17:36:23 :: users action - update
+2021.01.27 17:36:23 :: data updated; sent to user 'true'
+    2021.01.27 17:37:17 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:37:17 :: users action - read
+2021.01.27 17:37:17 :: sent to user next data: [{"id":"3","name":"fffff","description":"fdssvsdasdf","done":"0"},{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"eweryuy","description":"ewrreyruyt","done":"0"}]
+2021.01.27 17:38:23 :: Received data from Server-CRUD: {"action":"update","name":"q2","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:38:23 :: users action - update
+2021.01.27 17:38:23 :: data updated; sent to user 'true'
+    2021.01.27 17:40:39 :: Received data from Server-CRUD: {"action":"update","name":"q2","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:40:39 :: users action - update
+2021.01.27 17:40:39 :: data updated; sent to user 'true'
+ 1     22021.01.27 17:42:19 :: Received data from Server-CRUD: {"action":"delete","id":3}
+2021.01.27 17:42:19 :: users action - delete
+2021.01.27 17:42:19 :: task with ID=3 was deleted; sent to user 'true'
+2021.01.27 17:44:12 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:44:12 :: users action - read
+2021.01.27 17:44:12 :: sent to user next data: [{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"eweryuy","description":"ewrreyruyt","done":"0"}]
+2021.01.27 17:44:49 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 17:44:49 :: users action - read
+2021.01.27 17:44:49 :: sent to user next data: [{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"eweryuy","description":"ewrreyruyt","done":"0"}]
+2021.01.27 17:45:57 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:45:57 :: users action - update
+2021.01.27 17:45:57 :: data updated; sent to user 'true'
+2021.01.27 17:49:10 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:49:10 :: users action - update
+2021.01.27 17:49:10 :: data updated; sent to user 'true'
+2021.01.27 17:50:04 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:50:04 :: users action - update
+2021.01.27 17:50:04 :: data updated; sent to user 'true'
+2021.01.27 17:51:29 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:51:29 :: users action - update
+2021.01.27 17:51:29 :: data updated; sent to user 'true'
+2021.01.27 17:52:23 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:52:23 :: users action - update
+2021.01.27 17:52:23 :: data updated; sent to user 'true'
+  122021.01.27 17:54:54 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:54:54 :: users action - update
+2021.01.27 17:54:54 :: data updated; sent to user 'true'
+  1UPDATE tasks SET name='222', description='ewrreyruyt', done='' WHERE id='5'2021.01.27 17:57:33 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":false}
+2021.01.27 17:57:33 :: users action - update
+2021.01.27 17:57:33 :: data updated; sent to user 'true'
+  1UPDATE tasks SET name='222', description='ewrreyruyt', done='0' WHERE id='5'2021.01.27 18:00:34 :: Received data from Server-CRUD: {"action":"read","ownerId":"14"}
+2021.01.27 18:00:34 :: users action - read
+2021.01.27 18:00:34 :: sent to user next data: [{"id":"4","name":"eweryuy","description":"ewrreyruyt","done":"1"},{"id":"5","name":"222","description":"ewrreyruyt","done":"0"}]
+2021.01.27 18:01:12 :: Received data from Server-CRUD: {"action":"create","name":"222","description":"ewrreyruyt","ownerId":14,"done":0}
+2021.01.27 18:01:12 :: users action - create
+2021.01.27 18:01:12 :: new data inserted into database; ID of new task - 6 - sent to client
+2021.01.27 18:01:22 :: Received data from Server-CRUD: {"action":"update","name":"fwesf","description":"rrrr","id":6,"done":false}
+2021.01.27 18:01:22 :: users action - update
+2021.01.27 18:01:22 :: data updated; sent to user 'true'
+2021.01.27 18:02:40 :: Received data from Server-CRUD: {"action":"update","name":"222","description":"ewrreyruyt","id":5,"done":true}
+2021.01.27 18:02:40 :: users action - update
+2021.01.27 18:02:40 :: data updated; sent to user 'true'
